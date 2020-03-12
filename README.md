@@ -2,5 +2,6 @@
 Aplicação em react para busca de músicas utilizando API do iTunes
 
 ## Utilizado:
-
-- Foi utilizado React com Axios para consumir a API do iTunes, realizando a pesquisa das músicas pelo nome do artista
+- React: https://github.com/facebook/react
+- iTunes API: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+- Axios: https://github.com/axios/axios
